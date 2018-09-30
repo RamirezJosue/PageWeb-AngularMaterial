@@ -11,7 +11,9 @@ import {
   MatCheckboxModule,
   MatSidenavModule,
   MatListModule,
-  MatTabsModule
+  MatTabsModule,
+  MatCardModule,
+  MatSelectModule
   } from '@angular/material';
 
 
@@ -28,7 +30,9 @@ import {
     MatCheckboxModule,
     MatSidenavModule,
     MatListModule,
-    MatTabsModule
+    MatTabsModule,
+    MatCardModule,
+    MatSelectModule
   ],
   exports: [
     MatToolbarModule,
@@ -41,7 +45,9 @@ import {
     MatCheckboxModule,
     MatSidenavModule,
     MatListModule,
-    MatTabsModule
+    MatTabsModule,
+    MatCardModule,
+    MatSelectModule
   ],
   declarations: []
 })
